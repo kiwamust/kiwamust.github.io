@@ -3,3 +3,8 @@
 ---
 
 @import "main";
+@media (prefers-color-scheme: dark) {
+        body {
+       background-color: #020212;
+   }
+}
